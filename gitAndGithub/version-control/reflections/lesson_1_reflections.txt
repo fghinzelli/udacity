@@ -1,0 +1,3 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+Através do comando diff é possível visualizar as mudanças que foram feitas em um determinado auquivo. Logo, é possível identificar de que forma estas mudanças podem estar causando o bug.
